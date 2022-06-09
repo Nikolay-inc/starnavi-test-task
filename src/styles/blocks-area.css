@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.blocks_area_easy {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.blocks_area_normal {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.blocks_area_hard {
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+
+.block_item {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}

@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.hover_squares_header {
+    text-align: center;
+    font-weight: 300;
+}
+
+.hover_squares_container {
+    border: 1px solid black;
+    overflow: scroll;
+    width: 250px;
+    height: 600px;
+    margin: 40px;
+}
+
+.hover_squares_item {
+    width: 220px;
+    height: 40px;
+    background-color: #e5d3bb;
+    border: 2px solid #deb887ff;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 7px;
+    text-align: center;
+    font-weight: 300;
+}

@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.input_container {
+    width: 250px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px;
+}
+
+.selector {
+    width: 150px;
+    height: 30px;
+}
+
+.button {
+    width: 80px;
+    height: 30px;
+    background-color: blue;
+    color: #fff;
+    border: 1px solid black;
+    border-radius: 4px;
+}
